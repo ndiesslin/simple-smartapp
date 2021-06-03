@@ -70,6 +70,3 @@ More information on:
 - [API reference - SmartApps](https://smartthings.developer.samsung.com/docs/api-ref/smartapps-v1.html)
 - [API reference - SmartThings API](https://smartthings.developer.samsung.com/docs/api-ref/st-api.html)
 - [SmartApp Configuration](https://smartthings.developer.samsung.com/docs/smartapps/configuration.html)
-
-## Inspiration
-This SmartApp got inspiration from [weather-color-light-smartapp-nodejs.](https://github.com/SmartThingsCommunity/weather-color-light-smartapp-nodejs) A fantastic SmartApp that adjusts lighting color based on the current weather.
